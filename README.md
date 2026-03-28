@@ -31,7 +31,7 @@ pip install tkinter
 Run the script:
 
 ```bash
-python main.py
+python cool_file.py
 ```
 
 ---
